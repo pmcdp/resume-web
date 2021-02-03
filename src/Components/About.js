@@ -21,7 +21,7 @@ const About = ({ data }) => {
         <div className="nine columns main-col">
           <h2>Sobre mim</h2>
 
-          <p>Olá!! o meu nome é Pedro Miguel Pereira, tenho 22 anos e resido na cidade de Aveiro.<br></br> Sou licenciado em Comunicação Multimédia. Desde muito cedo ganhei um gosto por interfaces e pela intuitividade que estas oferecem aos utilizadores, levando-me assim a interessar pelas áreas de programação mobile e web. Para além destes tenho também interesse nas áreas de UI design e user experience, vídeo e fotografia.<br></br> Sou motiviado e emprenhado, adoro trabalhar em equipa, trocar ideias com colegas e dou o meu melhor em todos os projetos em que me insiro</p>
+          <p>Olá!! o meu nome é Pedro Miguel Pereira, tenho 22 anos e resido na cidade de Aveiro.<br></br> Sou licenciado em Comunicação Multimédia. Desde muito cedo ganhei um gosto por interfaces e pela intuitividade que estas oferecem aos utilizadores, levando-me assim a interessar pelas áreas de programação mobile e web. Para além destes tenho também interesse nas áreas de UI design e user experience, vídeo e fotografia.<br></br> Sou motiviado e empenhado, adoro trabalhar em equipa, trocar ideias com colegas e dou o meu melhor em todos os projetos em que me insiro</p>
           <div className="row">
             <div className="columns contact-details">
               <h2>Contacto</h2>

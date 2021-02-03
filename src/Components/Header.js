@@ -59,9 +59,6 @@ const Header = ({ data }) => {
           <h1 className="responsive-headline">
             <TypeWriter typing={0.5}>{name ? `Hello There!` : null}</TypeWriter>
           </h1>
-          <h3>
-            O meu nome é Pedro Pereira e tenho um grande interesse por programação mobile e web assim como edição de fotografia e vídeo.
-          </h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>
