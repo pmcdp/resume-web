@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Pedro Miguel Pereira",
+    "image": "passe.png",
+    "bio": "Olá!! o meu nome é Pedro Miguel Pereira, tenho 22 anos e resido na cidade de Aveiro. Sou licenciado em Comunicação Multimédia. Desde muito cedo ganhei um gosto por interfaces e pela intuitividade que estas oferecem aos utilizadores, levando-me assim a interessar pelas áreas de programação mobile e web. Para além destes tenho também interesse nas áreas de UI design e user experience, vídeo e fotografia. Sou motiviado e emprenhado, adoro trabalhar em equipa, trocar ideias com colegas e dou o meu melhor em todos os projetos em que me insiro.",
+    "contactmessage": "Qualquer questão entra em contacto comigo!",
+    "email": "pedromcdp@gmail.com",
+    "social": [
+
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/1.pmcdp",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pedromcdp/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pmcdp",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "behance",
+        "url": "https://www.behance.net/pedromcdp",
+        "className": "fa fa-behance"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Curso Profissional de Técnico de Gestão e Programação de Sistemas Informáticos",
+        "degree": "Escola Secundária José Estêvão",
+        "graduated": "2013 - 2016",
+        "description": "Distinguido como o melhor aluno do curso"
+      },
+      {
+        "school": "Licenciatura em Comunicação Multimédia",
+        "degree": "Instituto Politécnico da Guarda",
+        "graduated": "2017 - 2020",
+        "description": "Licenciado com média de 16 valores"
+      }
+    ],
+    "experience": [
+      {
+        "desc": "Apresentação da Aplicação Móvel “iHelp” na Universidade Católica do Porto",
+        "ano": "2016"
+      },
+      {
+        "desc": "Estágio Académico na empresa Decimal- Informática e Gestão, Lda",
+        "ano": "2016"
+      },
+      {
+        "desc": "Estágio Curricular na empresa Altice Labs",
+        "ano": "2020"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Swift",
+        "level": "85%"
+      },
+      {
+        "name": "Objective-C",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Desenvolvimento Web",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
