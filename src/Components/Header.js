@@ -3,7 +3,6 @@ import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
-    var name = data.name;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -57,8 +56,11 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `Hello There!` : null}</TypeWriter>
+            Hello There!
           </h1>
+          <h3>
+            <TypeWriter typing={1.2}> O meu nome é Pedro Miguel Pereira e tenho um enorme interesse por programação mobile e web, assim como por edição de fotografia e de vídeo.</TypeWriter>
+          </h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>
